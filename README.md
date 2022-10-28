@@ -2,8 +2,6 @@
 
 Hello! This is my prototype of the _Random Quote Machine_ from the [freeCodeCamp](https://www.freecodecamp.org/learn/) Front End Development Libraries Certification proyects.
 
----
-
 Thank you for joining me in my coding journey!!
 
 ---
@@ -20,8 +18,5 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
