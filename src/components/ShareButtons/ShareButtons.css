@@ -1,0 +1,14 @@
+.buttons div > a {
+  width: 2.25rem;
+  padding: 0.5rem;
+  border-radius: 0.25rem;
+  transition: background-color 750ms linear;
+}
+.buttons div > a i {
+  color: white;
+  font-size: 1.25rem;
+}
+.buttons div > a:hover {
+  opacity: 0.8;
+  transition: all 750ms linear;
+}
